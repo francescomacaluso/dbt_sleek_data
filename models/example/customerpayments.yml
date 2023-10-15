@@ -1,0 +1,7 @@
+models:
+  - name: customerpayments
+    description: "{{ doc('Payment') }}"
+    columns:
+      - name: Email
+        tests:
+          - empty_records

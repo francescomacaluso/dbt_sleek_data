@@ -1,0 +1,7 @@
+__pycache__/
+target/
+dbt_packages/
+logs/
+dbt_venv/
+config.py
+qlik_cli_measures.sh
