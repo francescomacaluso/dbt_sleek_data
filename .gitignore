@@ -8,4 +8,9 @@ README.md
 config.py
 qlik_cli_measures.sh
 analyses/
+macros/
+models/example/
+seeds/
+snapshots/
+tests/
 show_postgres_data.ipynb
