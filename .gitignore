@@ -14,3 +14,4 @@ seeds/
 snapshots/
 tests/
 show_postgres_data.ipynb
+.gitignore
