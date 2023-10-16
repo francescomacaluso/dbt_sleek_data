@@ -3,5 +3,12 @@ target/
 dbt_packages/
 logs/
 dbt_venv/
+analyses/
+macros/
+models/
+seeds/
+tests/
+dbt_project.yml
+README.md
 config.py
 qlik_cli_measures.sh
